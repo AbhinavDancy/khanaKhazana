@@ -1,0 +1,101 @@
+.jumbotron
+{
+    text-align: center;
+    background: none;;
+    margin-top: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.carousel-caption
+{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.sectionLight
+{
+    background-color: #eceefe;
+    padding:2rem;
+}
+.my-col{
+    text-align: center;
+}
+.sectionDark
+{
+    background-color: rgb(126, 122, 122);
+    padding:1rem 1rem ;
+    margin-bottom: 3rem;
+}
+.foodWrapper
+{
+    margin: 23px;
+}
+button.food-btn
+{
+    background-color: red;
+    color: white;
+    display: block;
+    align-items: center;
+    margin: auto;
+
+
+}
+.modal-title
+{
+    display: block;
+    margin: auto;
+}
+.modalImage
+{
+   height: auto;
+   width: 100%;
+    position: relative;
+}
+.modalFormWrapper
+{
+    background-color: blanchedalmond;
+    margin: 2rem 0rem;
+    padding :1rem 1rem;
+
+}
+#formEmail
+{
+    margin:2rem 0rem;
+   
+}
+.form-control
+{
+    display: block;
+    margin: auto;
+    align-items: center;
+}
+.imgCenter
+{
+    display: block;
+    margin: auto;
+}
+.btnCenter
+{
+    display: block;
+    margin: auto;
+    width: fit-content;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.footer-img
+{
+    padding :12px;
+}
+.colo
+{
+    background-color: rgba(80, 69, 69,0.6);
+}
+.Pfoot
+{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+.fa-facebook
+{
+    color: blue;
+}
